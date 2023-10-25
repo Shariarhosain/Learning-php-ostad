@@ -1,0 +1,8 @@
+[
+    {
+        "email": "dheke62772@hotmail.com",
+        "username": "ss",
+        "password": "ee",
+        "role": "user"
+    }
+]
